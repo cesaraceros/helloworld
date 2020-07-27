@@ -1,0 +1,9 @@
+﻿'hellowold.exe' (Win32): Loaded 'C:\Users\CesarAugustoAcerosMo\source\repos\hellowold\x64\Release\hellowold.exe'. Symbols loaded.
+'hellowold.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'hellowold.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'hellowold.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'hellowold.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'hellowold.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140.dll'. 
+'hellowold.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1.dll'. 
+'hellowold.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140.dll'. 
+The program '[8696] hellowold.exe' has exited with code 0 (0x0).
